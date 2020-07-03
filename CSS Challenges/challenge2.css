@@ -1,0 +1,27 @@
+* {
+    font-family     : Bookman, URW Bookman L, serif;
+    background-color: rgb(108, 158, 223);
+}
+
+h1 {
+
+    /* color: red */
+}
+
+p {
+    /* color: blue */
+}
+
+li:first-letter {
+    font-size  : 24px;
+    font-weight: 400;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    font-style: italic;
+}
